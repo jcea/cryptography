@@ -248,7 +248,7 @@ _OID_NAMES = {
     CRLEntryExtensionOID.INVALIDITY_DATE: "invalidityDate",
     CRLEntryExtensionOID.CERTIFICATE_ISSUER: "certificateIssuer",
     ExtensionOID.NAME_CONSTRAINTS: "nameConstraints",
-    ExtensionOID.CRL_DISTRIBUTION_POINTS: "cRLDistributionPoints",
+    ExtensionOID.CRL_DISTRIBUTION_POINTS: "CRLDistributionPoints",
     ExtensionOID.CERTIFICATE_POLICIES: "certificatePolicies",
     ExtensionOID.POLICY_MAPPINGS: "policyMappings",
     ExtensionOID.AUTHORITY_KEY_IDENTIFIER: "authorityKeyIdentifier",
